@@ -13,7 +13,7 @@ public class PerpustakaanBeraksi {
         pinjaman1.tglPinjam = 15032018;
         pinjaman1.tglKembali = 22032018;
         pinjaman1.pinalti = 3;
-        pinjaman1.denda = 5000;
+        pinjaman1.denda = 4500;
 
         //mutator
         System.out.println("Nomor Peminjam = " + pinjaman1.getId());
@@ -37,7 +37,7 @@ public class PerpustakaanBeraksi {
         //pinjaman1.setTglPinjam (15032018);
         //pinjaman1.setTglKembali (22032018);
         //pinjaman1.setPinalti (3);
-        //pinjaman1.setDenda (5000);
+        //pinjaman1.setDenda (4500);
         
     //Output
         //System.out.println(pinjaman1.id);
