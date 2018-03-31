@@ -12,8 +12,8 @@ public class Perpustakaan {
     int tglKembali;
     int pinalti;
     int denda;
-
-    //acessor
+    
+        //acessor
     public int getId() {
         return id;
     }
