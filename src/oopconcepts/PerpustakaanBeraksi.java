@@ -6,7 +6,7 @@ public class PerpustakaanBeraksi {
         Perpustakaan pinjaman1 = new Perpustakaan();
         pinjaman1.id = 2546;
         pinjaman1.nama = "Emilio";
-        pinjaman1.jk = "Laki-laki";
+        pinjaman1.jk = "Laki-Laki";
         pinjaman1.staff = "Andi";
         pinjaman1.idBuku = 6;
         pinjaman1.namaBuku = "Tidur dalam kubur";
