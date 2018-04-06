@@ -9,7 +9,7 @@ public class PerpustakaanBeraksi {
         pinjaman1.jk = "Laki-Laki";
         pinjaman1.staff = "Andi";
         pinjaman1.idBuku = 6;
-        pinjaman1.namaBuku = "Tidur dalam kubur";
+        pinjaman1.namaBuku = "Sleep on the Tomb";
         pinjaman1.tglPinjam = 15032018;
         pinjaman1.tglKembali = 22032018;
         pinjaman1.pinalti = 3;
