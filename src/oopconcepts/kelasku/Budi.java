@@ -10,6 +10,7 @@ package oopconcepts.kelasku;
  * @author entedodol04
  */
 public class Budi {
+
     public void info() {
         System.out.println("Kelas Budi");
     }

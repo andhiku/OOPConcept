@@ -26,8 +26,8 @@ public class PerpustakaanBeraksi {
         System.out.println("Tanggal Kembali = " + pinjaman1.getTglKembali());
         System.out.println("Pinalti = " + pinjaman1.getPinalti() + " Hari");
         System.out.println("Total Denda = Rp. " + pinjaman1.getDenda());
-        
-    //Acessor
+
+        //Acessor
         //pinjaman1.setId (2546);
         //pinjaman1.setNama ("Emilio");
         //pinjaman1.setJk ("Laki-laki");
@@ -38,8 +38,7 @@ public class PerpustakaanBeraksi {
         //pinjaman1.setTglKembali (22032018);
         //pinjaman1.setPinalti (3);
         //pinjaman1.setDenda (4500);
-        
-    //Output
+        //Output
         //System.out.println(pinjaman1.id);
         //System.out.println(pinjaman1.nama);
         //System.out.println(pinjaman1.jk);
@@ -50,8 +49,7 @@ public class PerpustakaanBeraksi {
         //System.out.println(pinjaman1.tglKembali);
         //System.out.println(pinjaman1.pinalti);
         //System.out.println(pinjaman1.denda);
-        
-    //acessor
+        //acessor
         //System.out.println(pinjaman1.getId() + " ");
         //System.out.println(pinjaman1.getNama() + " ");
         //System.out.println(pinjaman1.getJk() + " ");

@@ -12,8 +12,8 @@ public class Perpustakaan {
     int tglKembali;
     int pinalti;
     int denda;
-    
-        //acessor
+
+    //acessor
     public int getId() {
         return id;
     }
@@ -54,36 +54,43 @@ public class Perpustakaan {
         return denda;
     }
 
-    
-    
     //mutator
     public void setId(int id) {
         this.id = id;
     }
+
     public void setNama(String nama) {
         this.nama = nama;
     }
+
     public void setJk(String jk) {
         this.jk = jk;
     }
+
     public void setStaff(String staff) {
         this.staff = staff;
     }
+
     public void setIdBuku(int idBuku) {
         this.idBuku = idBuku;
     }
+
     public void setNamaBuku(String namaBuku) {
         this.namaBuku = namaBuku;
     }
+
     public void setTglPinjam(int tglPinjam) {
         this.tglPinjam = tglPinjam;
     }
+
     public void setTglKembali(int tglKembali) {
         this.tglKembali = tglKembali;
     }
+
     public void setPinalti(int pinalti) {
         this.pinalti = pinalti;
     }
+
     public void setDenda(int denda) {
         this.denda = denda;
     }
