@@ -2,8 +2,8 @@ package javasyntax;
 
 public class Bilangan {
 
-    static int pencacah = 0;
-    int nilai;
+    static int pencacah = 0; // static variable
+    int nilai; // instance variable
 
     public Bilangan(int nilai) {
         this.nilai = nilai;
