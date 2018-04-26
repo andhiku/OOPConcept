@@ -72,8 +72,6 @@ public class MatematikaScannerBeraksi {
                 System.out.println("Masukkan Jari-jari Lingkaran= ");
                 angka1 = input1.nextDouble();
                 
-                System.out.println("");
-                
                 mtk5.LuasLingkaran(angka1);
                 break;
                 
@@ -82,8 +80,6 @@ public class MatematikaScannerBeraksi {
                 
                 System.out.println("Masukkan Luas Lingkaran = ");
                 angka1 = input1.nextDouble();
-                
-                System.out.println("");
                 
                 mtk6.KelilingLingkaran(angka1);
                 break;
