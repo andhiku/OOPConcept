@@ -2,7 +2,7 @@ package javasyntax;
 
 import java.util.Scanner;
 
-public class MatematikaScannerBeraksi1 {
+public class LatihanMatematikaScannerBeraksi1 {
 
     public static void main(String[] args) {
         MatematikaScanner m = new MatematikaScanner();
