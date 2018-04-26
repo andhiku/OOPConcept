@@ -9,6 +9,8 @@ public class MatematikaScannerBeraksi {
         System.out.println("2 Pengurangan");
         System.out.println("3 Perkalian");
         System.out.println("4 Pembagian");
+        System.out.println("5 Luas Lingkaran");
+        System.out.println("6 Keliling Lingkaran");
         System.out.println("---------------------------");
         
         Scanner input1 = new Scanner (System.in) ;
@@ -62,6 +64,28 @@ public class MatematikaScannerBeraksi {
                 angka2 = input1.nextDouble();
                 
                 mtk4.Pembagian(angka1, angka2);
+                break;
+                
+            case 5:
+                MatematikaScanner mtk5 = new MatematikaScanner();
+                
+                System.out.println("Masukkan Jari-jari Lingkaran= ");
+                angka1 = input1.nextDouble();
+                
+                System.out.println("");
+                
+                mtk5.LuasLingkaran(angka1);
+                break;
+                
+            case 6:
+                MatematikaScanner mtk6 = new MatematikaScanner();
+                
+                System.out.println("Masukkan Luas Lingkaran = ");
+                angka1 = input1.nextDouble();
+                
+                System.out.println("");
+                
+                mtk6.KelilingLingkaran(angka1);
                 break;
         }
     }
