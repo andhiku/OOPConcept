@@ -1,7 +1,7 @@
 package javasyntax;
 
-
-public class DoWhile {
+//melakukan perulangan dulu, baru melihat kondisi (syarat) jadi minimal mengulang 1 kali
+public class DoWhile { 
     public static void main(String[] args) {
         int i=11; //inisialisasi
         do {

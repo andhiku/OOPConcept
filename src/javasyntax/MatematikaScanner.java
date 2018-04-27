@@ -1,5 +1,5 @@
 package javasyntax;
-import java.util.Scanner;
+
 
 public class MatematikaScanner {
 
